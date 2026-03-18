@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** Caio Lucas Pereira Guimarães.
+**Matrícula:** 20261100054.
 ---
 
 ## 🎯 Objetivo
@@ -46,13 +46,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+>   Vou explicar passo a passo da minha lógica ao resolver. Primeiro eu fiz uma estrela com um loop de 5x que estava contido "avançar 50" e "Vire a direita 144", em seguida, vi que um ponto da proxima estrela estava em paralelo com o ponto da primeira. Então, levantei a caneta, andei, abaixei, e repeti o processo, e a mesma coisa com a terceira. Então, alinhei o angulo do meu ponto com o do circulo, levantei a caneta, cheguei lá, abaixei a caneta e fiz um circulo com um loop de 360x, onde estava contido: ande 50, ande para trás 50, vire a direita 1 grau. assim concluindo um circulo, e para fazer o circulo preso sobreposto, parti do meio do circulo atual, movendo 20 na diagonal superior direita, e repeti o mesmo processo.
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** Teria 6 repetições pois o hexágono regular tem 6 lados, 60 graus
   
-**B)** Escreva aqui...
+**B)** 120 graus
   
-**C)** Escreva aqui...
+**C)** Eu tenho em conhecimento que um hexágono regular possúi todos os ângulos=60 ou só fazer 360:6 = 60, depois, para fazê-lo em simetria, viraria 120 graus, pois ao repetir o processo, criaria outro hexagono em simetria ao primeiro.
 
 ---
